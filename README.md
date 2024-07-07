@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1 style="border-bottom: none; margin-bottom: 0px"> Hello, I'm Nabeel 👋 </h1>
-
+<h1 style="border-bottom: none; margin-bottom: 0px"> Hello, I'm Nabeel 👋 <br>
 <a href="https://github.com/Nabeel-Shafiq" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -10,7 +9,9 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </h1>
-<hr style="margin-top: 10px; height: 1px">
+
+
+</h1>
 </div>
 
 <img align="right" alt="GIF"  height="300" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxqaXlvZ2Y2dTNyMHI5bW5qZWwxN2NjcXJ2M21vY3B3eXhiYWUwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
@@ -23,9 +24,8 @@
 
 - 💬 I am <b> flexible to work in your time zone</b>
 
-- 👯 I am <b>open to work</b><br>
-
-<hr style="margin-top: 10px; height: 1px">
+- 👯 I am <b>open to work</b><br><br>
+<h1></h1>
 
 ### Languages and Tools:
 
